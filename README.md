@@ -1,2 +1,2 @@
 # Langagec
-Dans ce repo il y a mes codes de la deuxieme annee semestre 1
+Dans ce ripo il y a mes codes de la deuxieme annee semestre 1
